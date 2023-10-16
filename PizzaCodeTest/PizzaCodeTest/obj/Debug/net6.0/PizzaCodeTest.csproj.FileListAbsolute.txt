@@ -1,0 +1,17 @@
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/obj/Debug/net6.0/PizzaCodeTest.csproj.AssemblyReference.cache
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/obj/Debug/net6.0/PizzaCodeTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/obj/Debug/net6.0/PizzaCodeTest.AssemblyInfoInputs.cache
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/obj/Debug/net6.0/PizzaCodeTest.AssemblyInfo.cs
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/obj/Debug/net6.0/PizzaCodeTest.csproj.CoreCompileInputs.cache
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/bin/Debug/net6.0/PizzaCodeTest
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/bin/Debug/net6.0/PizzaCodeTest.deps.json
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/bin/Debug/net6.0/PizzaCodeTest.runtimeconfig.json
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/bin/Debug/net6.0/PizzaCodeTest.dll
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/bin/Debug/net6.0/PizzaCodeTest.pdb
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/obj/Debug/net6.0/PizzaCodeTest.csproj.CopyComplete
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/obj/Debug/net6.0/PizzaCodeTest.dll
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/obj/Debug/net6.0/refint/PizzaCodeTest.dll
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/obj/Debug/net6.0/PizzaCodeTest.pdb
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/obj/Debug/net6.0/PizzaCodeTest.genruntimeconfig.cache
+/Users/laurasantana/Projects/PizzaScreen/PizzaScreen/PizzaCodeTest/PizzaCodeTest/obj/Debug/net6.0/ref/PizzaCodeTest.dll
